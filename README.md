@@ -6,6 +6,7 @@ Logo depois de terminar o ensino médio eu já passei para estudar TADS (Tecnól
 Até agora aprendi muito, mas não sei, ou não tenho oportunidades de utilizar o que aprendi de forma prática e real, por isso eu crio jogos, sempre utilizo os mais variados conceitos que aprendi até agora para sempre criar um sistema extremamente eficiente e também, como é um jogo eu tento melhorar as minhas habilidades com UI (Interface de usuário) e UX (Experiência de usuário), além de criar um jogo que entregue entretenimento para o jogador.
 
 # O que eu fiz até agora como programador
+Publicação de jogo pago na Steam: https://store.steampowered.com/app/1635480/Spaceships/
 Site hospedado gratuitamente no Firebase com os serviços de: hosting, autenticação e base de dados.
 Fiz esse site para que fosse um portifólio dos jogos que eu crio, outras coisas de programação que não são jogos eu coloco no github de forma privada até que eu termine e depois isso vira público.
 A maioria dos jogos que eu faço é na verdade uma aplicação de algo que eu aprendo, por exemplo: usar
