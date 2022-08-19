@@ -1,6 +1,7 @@
 # O que eu fiz até agora como programador
-### Site hospedado gratuitamente no Firebase com os serviços de: hosting, autenticação e base de dados
-### Fiz esse site para que fosse um portifólio dos jogos que eu crio, outras coisas de programação que não são jogos eu coloco no github de forma privada até que eu termine depois isso vira público. A maioria dos jogos que eu faço é na verdade uma aplicação de algo que talvez não fosse usado em um jogo
+### Site hospedado gratuitamente no Firebase com os serviços de: hosting, autenticação e base de dados.
+Fiz esse site para que fosse um portifólio dos jogos que eu crio, outras coisas de programação que não são jogos eu coloco no github de forma privada até que eu termine e depois isso vira público.
+A maioria dos jogos que eu faço é na verdade uma aplicação de algo que talvez não fosse usado em um jogo
 
 # Minha experiência com a Godot Engine
 ### Os jogos que eu faço é na Godot Engine, ela tem uma linguagem própria que é uma mistura de JS, Python, C, C++ e Java, essa linguagem não é necessariamente uma mistura balanceada de todas essas linguagens, ela pode ter mais funcionalidades e ser mais parecida com uma do que outra. No caso do GDScript (linguagem da Godot Engine) ele é mais parecido com Python, JS e C++, mas também tem muitos elementos de Java e C, como: Classes, funcionalidades para criar uma Tool, que é uma espécie de classe também, e no que se parece com C é na questão da velocidade do código. A engine inteira é bem leve, ela pesa entre 70 e 80 megabytes, comparado a Unity que é bem mais pesada (+2 Gigabytes), ela também requer bem menos potência do computador quando você está criando os jogos e não precisa de muita otimização para o aplicativo final porque a Engine é realmente bem leve. Já ví vários youtubers criadores de jogos que preferiram mudar da Unity para a Godot Engine por esse motivo da otimização e também porque ela é uma Engine muito simples de usar.
