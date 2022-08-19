@@ -8,8 +8,8 @@ Até agora aprendi muito, mas não sei, ou não tenho oportunidades de utilizar 
 
 
 # O que eu fiz até agora como programador
-* Publicação de jogo pago na Steam: <https://store.steampowered.com/app/1635480/Spaceships/>
-* Site hospedado gratuitamente no Firebase com os serviços de: hosting, autenticação e base de dados. Fiz esse site para que fosse um portifólio dos jogos que eu crio e não publico na Steam, outras coisas de programação que não são jogos eu coloco no github de forma privada até que eu termine e depois isso vira público.
+* Publicação de jogo pago na **Steam**: <https://store.steampowered.com/app/1635480/Spaceships/>
+* Site hospedado gratuitamente no Firebase com os serviços de: hosting, autenticação e base de dados. Fiz esse site para que fosse um portifólio de todos os jogos que eu crio, outras coisas de programação que não são jogos eu coloco no github de forma privada até que eu termine e depois isso vira público.
 * Desenvolvimento de outros jogos (Você pode encontrá-los em: <https://canova-games.web.app/>)
 
 # Minha experiência com a Godot Engine
