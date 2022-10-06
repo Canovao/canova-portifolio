@@ -11,7 +11,6 @@ Até agora aprendi muito, mas não tive muitas oportunidades de utilizar o que a
 * Publicação de jogo pago na **Steam**: <https://store.steampowered.com/app/1635480/Spaceships/>
 * Site hospedado gratuitamente no **Firebase** com os serviços de: hosting, autenticação e base de dados. Fiz esse site para que fosse um portifólio de todos os jogos que eu crio, outras coisas de programação que não são jogos eu coloco no github de forma privada até que eu termine e depois isso se torna público.
 * Desenvolvimento de outros jogos (Você pode encontrá-los em: <https://canova-games.web.app/>)
-* Desenvolvimento em andamento de jogo na Unity em c#
 
 # Minha experiência com a Godot Engine
 Os jogos que eu faço é na Godot Engine, ela tem uma linguagem própria que é uma mistura de JS, Python, C, C++ e Java, essa linguagem não é necessariamente uma mistura balanceada de todas essas linguagens, ela pode ter mais funcionalidades e ser mais parecida com uma do que outra. No caso do GDScript (linguagem da Godot Engine) ele é mais parecido com Python, JS e C++, mas também tem muitos elementos de Java e C, como: Classes, funcionalidades para criar uma Tool, que é uma espécie de classe também, e no que se parece com C é na questão da velocidade do código.
